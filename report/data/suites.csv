@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Mon Jan 18 13:13:13 GMT+08:00 2021","Mon Jan 18 13:13:13 GMT+08:00 2021","19","","","","","","call interface withOut userId -- @1.1 ",""
+"passed","Mon Jan 18 13:13:12 GMT+08:00 2021","Mon Jan 18 13:13:13 GMT+08:00 2021","514","","","","","","用户登录 -- @1.1 ",""
+"passed","Mon Jan 18 13:13:12 GMT+08:00 2021","Mon Jan 18 13:13:12 GMT+08:00 2021","21","","","","","","获取图形验证码 -- @1.1 ",""

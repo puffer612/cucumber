@@ -1,0 +1,60 @@
+{
+  "f8714736711b9be70befeb239cf7acef" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7f63f39c47514767",
+      "status" : "passed",
+      "time" : {
+        "start" : 1610946792880,
+        "stop" : 1610946793394,
+        "duration" : 514
+      }
+    } ]
+  },
+  "f671d3b146e053a164c16575c0cdc3ee" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c873a0415b300ff2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1610946792858,
+        "stop" : 1610946792879,
+        "duration" : 21
+      }
+    } ]
+  },
+  "8cab83f22fb7e9e437ce7659875dcc3d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e2c23eb2b7ecb4d9",
+      "status" : "broken",
+      "statusDetails" : "json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)\n",
+      "time" : {
+        "start" : 1610946793396,
+        "stop" : 1610946793415,
+        "duration" : 19
+      }
+    } ]
+  }
+}

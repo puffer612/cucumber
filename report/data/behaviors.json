@@ -1,0 +1,51 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "user login",
+    "children" : [ {
+      "name" : "获取图形验证码 -- @1.1 ",
+      "uid" : "c873a0415b300ff2",
+      "parentUid" : "0e140ab7be2beda6def759c60a79f92b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1610946792858,
+        "stop" : 1610946792879,
+        "duration" : 21
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "000000", "result" ]
+    }, {
+      "name" : "用户登录 -- @1.1 ",
+      "uid" : "7f63f39c47514767",
+      "parentUid" : "0e140ab7be2beda6def759c60a79f92b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1610946792880,
+        "stop" : 1610946793394,
+        "duration" : 514
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "000000", "result" ]
+    } ],
+    "uid" : "0e140ab7be2beda6def759c60a79f92b"
+  }, {
+    "children" : [ {
+      "name" : "call interface withOut userId -- @1.1 ",
+      "uid" : "e2c23eb2b7ecb4d9",
+      "parentUid" : "5efba6efd4f6d5d2162189037d1deb05",
+      "status" : "broken",
+      "time" : {
+        "start" : 1610946793396,
+        "stop" : 1610946793415,
+        "duration" : 19
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "GB2001", "result" ]
+    } ],
+    "uid" : "5efba6efd4f6d5d2162189037d1deb05"
+  } ]
+}

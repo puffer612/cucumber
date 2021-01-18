@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)\n",
+      "children" : [ {
+        "name" : "call interface withOut userId -- @1.1 ",
+        "uid" : "e2c23eb2b7ecb4d9",
+        "parentUid" : "e517517ead10d6e3162bd65cce899cb6",
+        "status" : "broken",
+        "time" : {
+          "start" : 1610946793396,
+          "stop" : 1610946793415,
+          "duration" : 19
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "GB2001", "result" ]
+      } ],
+      "uid" : "e517517ead10d6e3162bd65cce899cb6"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

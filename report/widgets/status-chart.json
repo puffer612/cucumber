@@ -1,0 +1,31 @@
+[ {
+  "uid" : "e2c23eb2b7ecb4d9",
+  "name" : "call interface withOut userId -- @1.1 ",
+  "time" : {
+    "start" : 1610946793396,
+    "stop" : 1610946793415,
+    "duration" : 19
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "7f63f39c47514767",
+  "name" : "用户登录 -- @1.1 ",
+  "time" : {
+    "start" : 1610946792880,
+    "stop" : 1610946793394,
+    "duration" : 514
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c873a0415b300ff2",
+  "name" : "获取图形验证码 -- @1.1 ",
+  "time" : {
+    "start" : 1610946792858,
+    "stop" : 1610946792879,
+    "duration" : 21
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

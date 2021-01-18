@@ -1,0 +1,44 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "用户登录 -- @1.1 ",
+    "uid" : "7f63f39c47514767",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1610946792880,
+      "stop" : 1610946793394,
+      "duration" : 514
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "000000", "result" ]
+  }, {
+    "name" : "获取图形验证码 -- @1.1 ",
+    "uid" : "c873a0415b300ff2",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1610946792858,
+      "stop" : 1610946792879,
+      "duration" : 21
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "000000", "result" ]
+  }, {
+    "name" : "call interface withOut userId -- @1.1 ",
+    "uid" : "e2c23eb2b7ecb4d9",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "broken",
+    "time" : {
+      "start" : 1610946793396,
+      "stop" : 1610946793415,
+      "duration" : 19
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "GB2001", "result" ]
+  } ]
+}

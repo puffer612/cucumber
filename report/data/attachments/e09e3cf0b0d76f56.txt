@@ -1,0 +1,6 @@
+userLoginpwd: "123456qqQQ"
+captcha: ${resultData}
+userMobile: ""
+userLoginname: "YL015359"
+verify: ""
+userEmail: ""
