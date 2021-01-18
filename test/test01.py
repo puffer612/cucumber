@@ -8,4 +8,4 @@ scene: "uc_login"
 """
 content = re.sub('[${}]','',s)
 
-print(content)
+# print(content)
