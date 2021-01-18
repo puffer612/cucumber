@@ -1,8 +1,8 @@
-pip install behave == 1.2.6
-pip install requests == 2.25.1
-pip install PyMysql == 0.10.1
-pip install jsonpath == 0.82
-pip install fake == 0.8
-pip install PyYaml == 5.3.1
-pip install python-dotenv == 0.15.0
-pip install allure-behave == 2.8.31
+behave == 1.2.6
+requests == 2.25.1
+PyMysql == 0.10.1
+jsonpath == 0.82
+fake == 0.8
+PyYaml == 5.3.1
+python-dotenv == 0.15.0
+allure-behave == 2.8.31
